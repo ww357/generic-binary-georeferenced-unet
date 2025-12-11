@@ -1,4 +1,7 @@
 <u> Generic U-Net binary segmentation model specifically for georeferenced images" </u>
+
+This does not yet have the script to make the training data. <br>
+
 <br>
 Before using the scripts make the following folders:
 ```bash
